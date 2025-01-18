@@ -133,7 +133,5 @@ The feature importance plot for the Random Forest model highlights the most sign
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
----
 
-This README provides a comprehensive overview of the project, its methodology, and implementation. Let me know if you'd like to modify or expand any section!
 

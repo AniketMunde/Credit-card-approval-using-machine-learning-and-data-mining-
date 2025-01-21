@@ -83,6 +83,9 @@ The table below summarizes the performance of the implemented models:
 | Decision Tree (DT)   | 85%      | 0.86      | 0.87     | 0.71    | 86%                            |
 
 ### Feature Importance
+
+![image](https://github.com/user-attachments/assets/523c22f8-42e6-4c05-a2a7-4c19f0141f95)
+
 The feature importance plot for the Random Forest model highlights the most significant variables:
 
 - **Employment Years** and **Age** are the most influential features, indicating that stability in employment and the applicant's age significantly impact credit approval decisions.
